@@ -1,2 +1,5 @@
-package com.example.jpamanytoone.config;public class InitData {
+package com.example.jpamanytoone.config;
+
+public class InitData {
+
 }
